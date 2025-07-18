@@ -8,5 +8,6 @@
 <p>I have done it again, huraah!</p>
 <p>If you see this line, that means your latest changes are automatically deployed into production by CodePipeline!</p>
 </p>
+<p>Clearly, this has been slightly harder, but i guess new things are the same, hmm!</p>
 </body>
 </html>
